@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <b>Software Developer | Machine Learning/Artificial Intelligence</b><br/>
+  <b>Web Developer | Machine Learning/Artificial Intelligence</b><br/>
   Building intelligent, scalable, and user-centric applications by bridging Web Development and AI 🚀
 </p>
 
@@ -55,7 +55,7 @@
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-I'm a <b>Software Developer</b> and <b>Biomedical Engineer</b> from Addis Ababa, Ethiopia, passionate about creating 
+I'm a <b>Software Developer</b> from Addis Ababa, Ethiopia, passionate about creating 
 intelligent, scalable, and user-centric web solutions.<br/>
 Currently advancing in <b>Machine Learning and AI</b> with experience in <b>Python, PyTorch, and data analysis</b>,<br/>
 while building modern web applications using <b>JavaScript/TypeScript, React, Next.js, Node.js, and FastAPI</b>.
@@ -63,7 +63,7 @@ while building modern web applications using <b>JavaScript/TypeScript, React, Ne
 
 <p align="center">
 🎓 <b>B.Sc. in Biomedical Engineering</b> — Addis Ababa Institute of Technology (2021-2025)<br/>
-💼 <b>AI R&D Intern</b> at iCog Labs | <b>Freelance Frontend Developer</b>
+💼 <b>AI R&D Intern</b> at iCog Labs | <b>Freelance Web Developer</b>
 </p>
 
 ###
